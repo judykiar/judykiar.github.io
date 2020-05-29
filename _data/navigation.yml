@@ -12,8 +12,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "News & Blog"
+    url: /news-and-blog/
     
   - title: "Contact"
     url: /contact-us/
