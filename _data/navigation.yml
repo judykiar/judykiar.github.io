@@ -6,17 +6,17 @@ main:
   - title: "Services"
     url: /services/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Self Help"
+    url: /self-help/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Links"
+    url: /links/
         
   - title: "News & Blog"
     url: /news-and-blog/
     
+  - title: "FAQ"
+    url: /faq/
+    
   - title: "Contact"
     url: /contact-us/
-    
-  - title: "Guide"
-    url: /markdown/
