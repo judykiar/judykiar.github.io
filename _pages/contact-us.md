@@ -16,7 +16,7 @@ redirect_from:
 
 ### Email:
 
-- judy@judykiar.com (confidential)
+- counselling@judykiar.com (confidential)
 - judykiar@me.com (confidential)
 - emilyhkiar@gmail.com (confidential)
 
